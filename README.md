@@ -93,3 +93,6 @@
 [instagram]: https://instagram.com/rstriquer
 [linkedin]: https://linkedin.com/in/rstriquer
 [stackoverflow]: https://stackoverflow.com/users/423511/ricardophp
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rstriquer)](https://github.com/ryo-ma/github-profile-trophy)

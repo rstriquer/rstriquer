@@ -85,7 +85,7 @@
 
 ---
 
-<img align="left" alt="rstriquer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rstriquer&show_icons=true&hide_border=true" />
+<!-- img align="left" alt="rstriquer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rstriquer&show_icons=true&hide_border=true" / -->
 
 [profile]: https://rstriquer.github.io/portfolio/
 [website]: https://programabrasil.com
@@ -96,4 +96,4 @@
 [stackoverflow]: https://stackoverflow.com/users/423511/ricardophp
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rstriquer)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rstriquer)](https://github.com/ryo-ma/github-profile-trophy) -->

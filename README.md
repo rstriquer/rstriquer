@@ -1,4 +1,4 @@
-### Hey yo! I'm Ricardo Soares - aka [rstriquer][website] 👋
+### Hey yo! I'm Ricardo Soares - aka [rstriquer][profile] 👋
 
 [![Website](https://img.shields.io/website?label=ProgramaBrasil.org&style=for-the-badge&url=http%3A%2F%2FProgramaBrasil.org)](http://ProgramaBrasil.org)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rstriquer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frstriquer&screen_name=rstriquer)
@@ -87,7 +87,8 @@
 
 <img align="left" alt="rstriquer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rstriquer&show_icons=true&hide_border=true" />
 
-[website]: https://programbrasil.com
+[profile]: https://rstriquer.github.io/portfolio/
+[website]: https://programabrasil.com
 [twitter]: https://twitter.com/rstriquer
 [youtube]: https://youtube.com/rstriquer
 [instagram]: https://instagram.com/rstriquer
